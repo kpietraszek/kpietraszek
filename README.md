@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello world! 👋
+
+Welcome to my Github profile. You can also find me here:
+https://kpietraszek.github.io/
 
 <!--
 **kpietraszek/kpietraszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
